@@ -1,4 +1,4 @@
-# data-visualization-insights-to-pca
+**Human Resources (HR Dataset)
 This repository explores an HR Dataset through data visualization techniques to uncover insights, followed by applying Principal Component Analysis for dimensionality reduction and deeper understanding.
 
 ***Project Overview***
